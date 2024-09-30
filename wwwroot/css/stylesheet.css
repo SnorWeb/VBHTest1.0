@@ -1,0 +1,28 @@
+﻿body {
+    font-family: Arial, 'Sans Serif Collection';
+    background: black;
+    color: white
+}
+
+:root {
+    --nav-Background: #008a4c;
+}
+
+.header-home {
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center
+}
+
+.nav-style {
+    background: var(--nav-Background);
+    color: white
+}
+
+.mail-link {
+    text-decoration: none;
+    color: white;
+}
+
+.info {
+}
